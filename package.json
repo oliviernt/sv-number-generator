@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Olivier Tille",
+    "email": "olivier.tille@gmail.com",
+    "url": "https://twitter.com/oliviernt"
+  },
+  "name": "sv-number-generator",
+  "description": "Generates German SV-Numbers (also Rentenversicherungsnummer)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oliviernt/sv-number-generator"
+  },
+  "bugs": "https://github.com/oliviernt/sv-number-generator/issues",
+  "license": "MIT",
+  "main": "index.js",
+  "version": "0.1.0",
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "scripts" : {
+    "test" : "node_modules/mocha/bin/mocha"
+  }
+}
