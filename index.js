@@ -28,7 +28,7 @@ function pruefsummeBerechnen(ersterBuchstabeGeburtsname, bereichsnummerUndGeburt
 
     let sum = factors
         .map((factor, index) => mappedValues[index] * factor)
-        .reduce((agregator, product) => agregator + Math.floor(product / 10) + Math.floor(product % 10));
+        .reduce((agregator, product) => agregator + Math.floor(product / 10) + Math.floor(product % 10), 0);
 
     return Math.floor(sum % 10);
 }

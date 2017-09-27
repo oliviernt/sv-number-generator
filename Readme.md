@@ -4,7 +4,7 @@ This is a little util that allows to generate German SV-Numbers (also Rentenvers
 
 ## Installation
 
-Run `npm install` or `yarn install`
+Run `npm install` or `yarn`
 
 ## Usage
 
