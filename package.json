@@ -4,7 +4,8 @@
     "email": "olivier.tille@gmail.com",
     "url": "https://twitter.com/oliviernt"
   },
-  "name": "@oliviernt/sv-number-generator",
+  "name": "sv-number-generator",
+  "private": false,
   "description": "Generates German SV-Numbers (also Rentenversicherungsnummer)",
   "repository": {
     "type": "git",
