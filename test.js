@@ -2,7 +2,7 @@
 const assert = require('assert');
 
 describe('sv-number-generator', () => {
-    const generate = require('./index');
+    const generate = require('./src/sv-number-generator');
 
     describe('given valid input', () => {
         it('generates valid sv-numbers', () => {
