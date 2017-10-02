@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/oliviernt/sv-number-generator.svg?branch=master)](https://travis-ci.org/oliviernt/sv-number-generator)
+
 # SV-Number Generator
 
 This is a little util that allows to generate German SV-Numbers (also Rentenversicherungsnummer) for testing purposes.
