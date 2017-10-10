@@ -19,6 +19,9 @@ const svNumber = generateSV(birthday);
 
 // svNumber -> 02190585A502
 ```
+## Build
+
+Run `npm build` or `yarn build`
 
 ## Tests
 
