@@ -9,6 +9,7 @@ describe('sv-number-generator', () => {
 
           assert.equal(generate(), '0201011999A508');
           assert.equal(generate('181279', 'M'), '02181279M507');
+          assert.equal(generate('111166', 'A', '02', '00'), '02111166A007');
         });
     });
 
