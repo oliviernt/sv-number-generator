@@ -18,8 +18,8 @@
   "version": "0.1.4",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.0",
-    "mocha": "^3.5.3"
+    "babel-preset-env": "^1.7.0",
+    "mocha": "^5.2.0"
   },
   "scripts": {
     "build": "./node_modules/.bin/babel src -d dist",
