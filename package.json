@@ -15,7 +15,7 @@
   "bugs": "https://github.com/oliviernt/sv-number-generator/issues",
   "license": "MIT",
   "main": "src/sv-number-generator.js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
